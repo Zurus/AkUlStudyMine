@@ -127,7 +127,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 528
+        y: 768
         width: 48
         height: 48
       alignment: 0
@@ -148,7 +148,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 528
+        y: 768
         width: 48
         height: 48
       alignment: 0
@@ -169,7 +169,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 528
+        y: 768
         width: 48
         height: 48
       alignment: 0
@@ -189,8 +189,8 @@ TextureImporter:
       name: chara_hero_final_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 480
+        x: 144
+        y: 768
         width: 48
         height: 48
       alignment: 0
@@ -210,8 +210,8 @@ TextureImporter:
       name: chara_hero_final_4
       rect:
         serializedVersion: 2
-        x: 48
-        y: 480
+        x: 192
+        y: 768
         width: 48
         height: 48
       alignment: 0
@@ -231,8 +231,8 @@ TextureImporter:
       name: chara_hero_final_5
       rect:
         serializedVersion: 2
-        x: 96
-        y: 480
+        x: 0
+        y: 720
         width: 48
         height: 48
       alignment: 0
@@ -252,8 +252,8 @@ TextureImporter:
       name: chara_hero_final_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 432
+        x: 48
+        y: 720
         width: 48
         height: 48
       alignment: 0
@@ -273,8 +273,8 @@ TextureImporter:
       name: chara_hero_final_7
       rect:
         serializedVersion: 2
-        x: 48
-        y: 432
+        x: 96
+        y: 720
         width: 48
         height: 48
       alignment: 0
@@ -294,8 +294,8 @@ TextureImporter:
       name: chara_hero_final_8
       rect:
         serializedVersion: 2
-        x: 96
-        y: 432
+        x: 144
+        y: 720
         width: 48
         height: 48
       alignment: 0
@@ -315,8 +315,8 @@ TextureImporter:
       name: chara_hero_final_9
       rect:
         serializedVersion: 2
-        x: 144
-        y: 432
+        x: 0
+        y: 672
         width: 48
         height: 48
       alignment: 0
@@ -336,8 +336,8 @@ TextureImporter:
       name: chara_hero_final_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
+        x: 48
+        y: 672
         width: 48
         height: 48
       alignment: 0
@@ -357,8 +357,8 @@ TextureImporter:
       name: chara_hero_final_11
       rect:
         serializedVersion: 2
-        x: 48
-        y: 384
+        x: 96
+        y: 672
         width: 48
         height: 48
       alignment: 0
@@ -378,8 +378,8 @@ TextureImporter:
       name: chara_hero_final_12
       rect:
         serializedVersion: 2
-        x: 96
-        y: 384
+        x: 144
+        y: 672
         width: 48
         height: 48
       alignment: 0
@@ -399,8 +399,8 @@ TextureImporter:
       name: chara_hero_final_13
       rect:
         serializedVersion: 2
-        x: 144
-        y: 384
+        x: 0
+        y: 624
         width: 48
         height: 48
       alignment: 0
@@ -420,8 +420,8 @@ TextureImporter:
       name: chara_hero_final_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 336
+        x: 48
+        y: 624
         width: 48
         height: 48
       alignment: 0
@@ -441,8 +441,8 @@ TextureImporter:
       name: chara_hero_final_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 336
+        x: 96
+        y: 624
         width: 48
         height: 48
       alignment: 0
@@ -462,8 +462,8 @@ TextureImporter:
       name: chara_hero_final_16
       rect:
         serializedVersion: 2
-        x: 96
-        y: 336
+        x: 144
+        y: 624
         width: 48
         height: 48
       alignment: 0
@@ -483,8 +483,8 @@ TextureImporter:
       name: chara_hero_final_17
       rect:
         serializedVersion: 2
-        x: 144
-        y: 336
+        x: 0
+        y: 576
         width: 48
         height: 48
       alignment: 0
@@ -504,8 +504,8 @@ TextureImporter:
       name: chara_hero_final_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 288
+        x: 48
+        y: 576
         width: 48
         height: 48
       alignment: 0
@@ -525,8 +525,8 @@ TextureImporter:
       name: chara_hero_final_19
       rect:
         serializedVersion: 2
-        x: 48
-        y: 288
+        x: 96
+        y: 576
         width: 48
         height: 48
       alignment: 0
@@ -546,8 +546,8 @@ TextureImporter:
       name: chara_hero_final_20
       rect:
         serializedVersion: 2
-        x: 96
-        y: 288
+        x: 144
+        y: 576
         width: 48
         height: 48
       alignment: 0
@@ -567,8 +567,8 @@ TextureImporter:
       name: chara_hero_final_21
       rect:
         serializedVersion: 2
-        x: 144
-        y: 288
+        x: 0
+        y: 528
         width: 48
         height: 48
       alignment: 0
@@ -588,8 +588,8 @@ TextureImporter:
       name: chara_hero_final_22
       rect:
         serializedVersion: 2
-        x: 0
-        y: 240
+        x: 48
+        y: 528
         width: 48
         height: 48
       alignment: 0
@@ -609,8 +609,8 @@ TextureImporter:
       name: chara_hero_final_23
       rect:
         serializedVersion: 2
-        x: 48
-        y: 240
+        x: 96
+        y: 528
         width: 48
         height: 48
       alignment: 0
@@ -630,8 +630,8 @@ TextureImporter:
       name: chara_hero_final_24
       rect:
         serializedVersion: 2
-        x: 96
-        y: 240
+        x: 144
+        y: 528
         width: 48
         height: 48
       alignment: 0
@@ -651,8 +651,8 @@ TextureImporter:
       name: chara_hero_final_25
       rect:
         serializedVersion: 2
-        x: 144
-        y: 240
+        x: 0
+        y: 480
         width: 48
         height: 48
       alignment: 0
@@ -672,8 +672,8 @@ TextureImporter:
       name: chara_hero_final_26
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 48
+        y: 480
         width: 48
         height: 48
       alignment: 0
@@ -693,8 +693,8 @@ TextureImporter:
       name: chara_hero_final_27
       rect:
         serializedVersion: 2
-        x: 48
-        y: 192
+        x: 96
+        y: 480
         width: 48
         height: 48
       alignment: 0
@@ -714,8 +714,8 @@ TextureImporter:
       name: chara_hero_final_28
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192
+        x: 144
+        y: 480
         width: 48
         height: 48
       alignment: 0
@@ -735,8 +735,8 @@ TextureImporter:
       name: chara_hero_final_29
       rect:
         serializedVersion: 2
-        x: 144
-        y: 192
+        x: 0
+        y: 432
         width: 48
         height: 48
       alignment: 0
@@ -756,8 +756,8 @@ TextureImporter:
       name: chara_hero_final_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 144
+        x: 48
+        y: 432
         width: 48
         height: 48
       alignment: 0
@@ -777,8 +777,8 @@ TextureImporter:
       name: chara_hero_final_31
       rect:
         serializedVersion: 2
-        x: 48
-        y: 144
+        x: 96
+        y: 432
         width: 48
         height: 48
       alignment: 0
@@ -798,8 +798,8 @@ TextureImporter:
       name: chara_hero_final_32
       rect:
         serializedVersion: 2
-        x: 96
-        y: 144
+        x: 144
+        y: 432
         width: 48
         height: 48
       alignment: 0
@@ -819,8 +819,8 @@ TextureImporter:
       name: chara_hero_final_33
       rect:
         serializedVersion: 2
-        x: 144
-        y: 144
+        x: 0
+        y: 384
         width: 48
         height: 48
       alignment: 0
@@ -840,8 +840,8 @@ TextureImporter:
       name: chara_hero_final_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 48
+        y: 384
         width: 48
         height: 48
       alignment: 0
@@ -861,8 +861,8 @@ TextureImporter:
       name: chara_hero_final_35
       rect:
         serializedVersion: 2
-        x: 48
-        y: 96
+        x: 96
+        y: 384
         width: 48
         height: 48
       alignment: 0
@@ -882,8 +882,8 @@ TextureImporter:
       name: chara_hero_final_36
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
+        x: 144
+        y: 384
         width: 48
         height: 48
       alignment: 0
@@ -903,6 +903,489 @@ TextureImporter:
       name: chara_hero_final_37
       rect:
         serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9236d2eb2a95054e915a0e5b9e61e62
+      internalID: 800430547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa292f0b29bf1479001ef8e109202e
+      internalID: -1636462257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80808c847734344a9d6a834b8889137
+      internalID: 1600263208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca155d5ba9c11040a19e7f0b3f5e642
+      internalID: -204349889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c407a60a7d73fd4cab8c0d1c3b6f08b
+      internalID: 185458359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e1b81e2e1a9b41a9feaf6c12fb3f5
+      internalID: 271266956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95981c526394dc7499dae38e955665f8
+      internalID: 1721111536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a11e5cc8e900ac4abb8872111f1df64
+      internalID: 561783491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0aebba976beb4eb3ea400bac3ae2d
+      internalID: 197317650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4bf9a3d68f7454cbec589ffb24af3c
+      internalID: -1744163155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384481b7f7ea2d44b298992053f6cba
+      internalID: 1302703142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b0f81b6d4e9614ca96f479250979ae
+      internalID: -221107885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb460aa81a4ffc4bbbd37816d03e429
+      internalID: -911968404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d72dbee9f2e104c856acf004bb49a1
+      internalID: -923766823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4ea4b5994fea4cab1ff3200304be8
+      internalID: 147473113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc19fc8f598074c9cded5265dec2a1
+      internalID: -1693847512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57426f9dada6449935402cbf46a625
+      internalID: 325788509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f740c758466354cbec86130c047c29
+      internalID: -1468520420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e0fc0dac43dc4083abdb755504a2c
+      internalID: -163047536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06634cce167ea7249af12fe3c9bc31ab
+      internalID: 605805353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711941218490f44c82b5f5c1165e89d
+      internalID: -1855611147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40f9d154b620d448c59d2f1d6ce07f
+      internalID: -782763784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349b962eff796145bde070e2e3df81a
+      internalID: 903081061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara_hero_final_60
+      rect:
+        serializedVersion: 2
         x: 144
         y: 96
         width: 48
@@ -914,14 +1397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b7830c662ea88945aa10099b21303f5
-      internalID: 800430547
+      spriteID: 4bc21d976ff144c4daede46e3321aa92
+      internalID: 588003291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_38
+      name: chara_hero_final_61
       rect:
         serializedVersion: 2
         x: 0
@@ -935,14 +1418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e957c1f6af5fb548a55721bcb5f6939
-      internalID: -1636462257
+      spriteID: 043ddde479825014d96f86223611b702
+      internalID: -523845401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_39
+      name: chara_hero_final_62
       rect:
         serializedVersion: 2
         x: 48
@@ -956,14 +1439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd0ac6c79dbca5b48837cf7faa561dff
-      internalID: 1600263208
+      spriteID: 0f011b11e62e88e488ce66924efd783a
+      internalID: -360148672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_40
+      name: chara_hero_final_63
       rect:
         serializedVersion: 2
         x: 96
@@ -977,14 +1460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d673022064965d46b6f3b8507f5c3cf
-      internalID: -204349889
+      spriteID: d02cf015e0b501742aca0ebc501a1e36
+      internalID: 982263184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_41
+      name: chara_hero_final_64
       rect:
         serializedVersion: 2
         x: 144
@@ -998,14 +1481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66a12b28e1b3aec4b9a9755b8dd4de58
-      internalID: 185458359
+      spriteID: 524e016bf43248d408a796c9b98e8b83
+      internalID: 856696296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_42
+      name: chara_hero_final_65
       rect:
         serializedVersion: 2
         x: 0
@@ -1019,14 +1502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcd4752dbec6cf146baabb0cae2ad8c6
-      internalID: 271266956
+      spriteID: 59cf4b794072c3f409957149ca65c726
+      internalID: -518058975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_43
+      name: chara_hero_final_66
       rect:
         serializedVersion: 2
         x: 48
@@ -1040,14 +1523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 318360cd7ca083146a821d67ea7a882d
-      internalID: 1721111536
+      spriteID: 09adb4316fd72004791eb43661e9ab99
+      internalID: -405745613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_44
+      name: chara_hero_final_67
       rect:
         serializedVersion: 2
         x: 96
@@ -1061,14 +1544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2da17f255f6c3cd438b559ce3531f6eb
-      internalID: 561783491
+      spriteID: fe5e8f33df95bd34995483d1370e5866
+      internalID: 1098961184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara_hero_final_45
+      name: chara_hero_final_68
       rect:
         serializedVersion: 2
         x: 144
@@ -1082,8 +1565,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3ac7e0781527fe498c8ebcac74f106b
-      internalID: 197317650
+      spriteID: fde0de00d22e66944a11ebf9d719396f
+      internalID: -1295934425
       vertices: []
       indices: 
       edges: []
@@ -1140,8 +1623,31 @@ TextureImporter:
       chara_hero_final_43: 1721111536
       chara_hero_final_44: 561783491
       chara_hero_final_45: 197317650
+      chara_hero_final_46: -1744163155
+      chara_hero_final_47: 1302703142
+      chara_hero_final_48: -221107885
+      chara_hero_final_49: -911968404
       chara_hero_final_5: -1528865783
+      chara_hero_final_50: -923766823
+      chara_hero_final_51: 147473113
+      chara_hero_final_52: -1693847512
+      chara_hero_final_53: 325788509
+      chara_hero_final_54: -1468520420
+      chara_hero_final_55: -163047536
+      chara_hero_final_56: 605805353
+      chara_hero_final_57: -1855611147
+      chara_hero_final_58: -782763784
+      chara_hero_final_59: 903081061
       chara_hero_final_6: 1773972405
+      chara_hero_final_60: 588003291
+      chara_hero_final_61: -523845401
+      chara_hero_final_62: -360148672
+      chara_hero_final_63: 982263184
+      chara_hero_final_64: 856696296
+      chara_hero_final_65: -518058975
+      chara_hero_final_66: -405745613
+      chara_hero_final_67: 1098961184
+      chara_hero_final_68: -1295934425
       chara_hero_final_7: -2075373789
       chara_hero_final_8: -1352866772
       chara_hero_final_9: -1249350977

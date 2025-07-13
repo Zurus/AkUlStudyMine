@@ -9,9 +9,11 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     //private Vector2 change;
     private Vector3 change;
+    private Animator animator;
 
     void Start()
     {
+        animator = GetComponent<Animator>();
         rigidbody2D = GetComponent<Rigidbody2D>();    
     }
 
@@ -23,11 +25,22 @@ public class PlayerMovement : MonoBehaviour
         //change.x = Input.GetAxis("Horizontal");
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
+        UpdateAnimationAndMove();
+    }
+
+    void UpdateAnimationAndMove()
+    {
         if (change != Vector3.zero)
         {
             MoveCharacter();
+            animator.SetFloat("moveX", change.x);
+            animator.SetFloat("moveY", change.y);
+            animator.SetBool("moving", true);
         }
-        Debug.Log(change);
+        else
+        {
+            animator.SetBool("moving", false);
+        }
     }
 
     void MoveCharacter()
